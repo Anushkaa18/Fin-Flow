@@ -1,0 +1,37 @@
+Meet on 16 sept
+1) Detection of the 3 target ions (Ammonium, Nitrate, Nitrite) in the liquid analyte samples through Titration constituted the agenda.
+
+2) A thorough literature review on methods of detection was proposed & recommended.
+
+3) The Titration can be done using 2 pathways: (A) Volumetric / Colorimetric (detecting colour change on reaction/precipitation) (B) Conductometric (Change in Conductivity of solution)
+
+4) A previous attempt at designing an Optoelectronic Devices (Colorimetric titrations through electronics) for the Ammonium Ion was found:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6092083/
+
+5) A paper discussing Conductometric Titration for Chloride ions was found:
+https://www.researchgate.net/publication/235920894_Conductometric_titration_method_for_determination_of_naftidrofuryl_oxalate_propafenone_HCl_and_sotalol_HCl_using_silver_nitrate
+
+6) The field of microfluidics came up briefly. The lack of accuracy in previous Finflow realizations was also mentioned.
+
+7) An interesting paper which discussed an app for Titrations for colour-blind students was found : https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00027#
+
+
+
+oct 11 
+basics of arduino 
+made basic circuit 
+distance measuring circuit using ultasonic sensor
+making holes by laser cutting for holding peristaltic pumps  
+
+
+oct 22 
+basics of arduino
+made basic circuit 
+ our circuit problem : 
+    motor didn't worked due to volate of our circuit is 9v and motor is 2.7v so, we need to connect another circuit ...so that overall voltage of circuit is 2.7v
+    
+    
+ oct 26 
+ connected stepping motor and microstepdriver with arduino 
+ connected spectral sensor with arduino 
+ 
